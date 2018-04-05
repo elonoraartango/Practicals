@@ -1,6 +1,6 @@
 ###THE BELOW PROGRAM WILL ALLOW ANY AMOUNT OF NUMBERS TO BE ENTERED AND THE SUM OF ALL NUMBERS ARE PRINTED###
 
-infile = open('numbers.txt','r')  #name of file that numbers have been read from
+infile = open('numbersaa.txt', 'r')  #name of file that numbers have been read from
 total = 0
 for digit in infile:
     number = int(digit)

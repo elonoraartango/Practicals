@@ -1,2 +1,9 @@
 text = "Enjoy the test"
-result = text.strip().split()[0]
+
+result = text.strip().split()[1]
+
+print(result)
+
+
+
+
